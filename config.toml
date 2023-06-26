@@ -1,0 +1,41 @@
+baseURL = '/'
+languageCode = 'en'
+title = 'Top 6 ComparatIF Bourse'
+
+[menu]
+[[menu.main_left]]
+  name = 'Comparateur'
+  url = '/'
+  weight = '1'
+[[menu.main_left]]
+  name = 'Articles & Revues'
+  url = '/blog'
+  weight = '2'
+
+[[menu.footer]]
+  name = 'Accueil'
+  pageRef = '/blog'
+  weight = 1
+
+[[menu.footer]]
+  name = 'Comparateur'
+  pageRef = '/'
+  weight = 2
+
+[[menu.footer]]
+  name = 'CGU'
+  pageRef = '/terms'
+  weight = 3
+  
+[[menu.footer]]
+  name = 'Politique'
+  pageRef = '/politique'
+  weight = 4
+
+
+[Params]
+siteLogo = "/assets/images/logo_black.svg"
+bannerImage = "/assets/images/couple.png"
+copyright = "top6comparatifbourse.com"
+footerLogo = "/assets/images/logo_white.svg"
+footer = "Le comparateur ne référence pas tous les sites présents sur le marché français mais offre une liste de sites avec laquelle l’éditeur est en contact. L’éditeur touche une rémunération par les sites et en fonction des partenariats mis en place, le nombre et le classement des offres peuvent en être impactés. Le Directeur de la publication peut actualiser manuellement le site et ainsi modifier le classement et les sites présentés."

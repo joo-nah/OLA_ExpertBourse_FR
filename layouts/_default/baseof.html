@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <title>
+      {{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}
+    </title>
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/css/animate.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="shortcut icon" href="/assets/images/favicon.png" />
+  </head>
+
+  <body>
+    <!--================HEADER================-->
+    {{ partial "header.html" . }}
+    <!--================HEADER END================-->
+
+    {{ block "main" . }}
+    <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+
+    <!--Footer-->
+    {{partial "footer.html" .}}
+
+
+    <script src="/assets/js/jquery-3.5.1.min.js "></script>
+    <script src="/assets/js/jquery-ui.min.js"></script>
+    <script src="/assets/js/popper.min.js "></script>
+    <script src="/assets/js/bootstrap.min.js "></script>
+    <script src="/assets/js/jquery.countdown.min.js"></script>
+    <script src="/assets/js/script.js"></script>
+
+    
+    <script>
+      // Get the value of "gclid" or "aff_sub" parameter from the current URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const gclidValue = urlParams.get("gclid");
+      const affSubValue = urlParams.get("aff_sub");
+
+      // Check if the URL contains either "gclid" or "aff_sub" parameter
+      if (gclidValue || affSubValue) {
+        // Get all the links on the page
+        const links = document.getElementsByTagName("a");
+
+        // Loop through all the links and update the "aff_sub" parameter to match the "gclid" or "aff_sub" parameter from the URL
+        for (let i = 0; i < links.length; i++) {
+          const link = links[i];
+          const url = new URL(link.href);
+          if (gclidValue) {
+            url.searchParams.set("aff_sub", gclidValue);
+          } else if (affSubValue) {
+            url.searchParams.set("aff_sub", affSubValue);
+          }
+          link.href = url.toString();
+        }
+      }
+    </script>
+    <script>
+      // Get the current year
+      const currentYear = new Date().getFullYear();
+
+      // Set the year to the <p> tag
+      // document.getElementById("current-year").innerHTML = currentYear;
+      // document.getElementById("current-year1").innerHTML = currentYear;
+      // document.getElementById("current-year2").innerHTML = currentYear;
+    </script>
+  </body>
+</html>

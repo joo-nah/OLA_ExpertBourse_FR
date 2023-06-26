@@ -1,0 +1,50 @@
+<div class="blog-ranking blog-page horizontal-ranking">
+  <div class="row ">
+    <div class="col-md-3 col-lg-3  hr-part1">
+      <div class="card2-logo "><img src="{{ .Page.Params.card2.logo }}" alt="" class="list-title-img"></div>
+    </div>
+    <div class="col-md-4 col-lg-4 list-icons-img  mt-auto  hr-part2">
+      {{ range .Page.Params.card2.items }}
+      <img
+        src="/assets/images/checked.svg"
+        alt="icon"
+        class="ads-icon-images"
+      />
+      <span class="ads-icon-text ml-2">{{.}}</span><br />
+      {{ end }}
+    </div>
+    <div class="col-md-2 col-lg-2 mt-auto p-0  hr-part3">
+      <div class="rating-star mobile">
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+      </div>
+
+      <div class="currency-container">
+        <p class="percentage">{{ .Page.Params.card2.percentage}}</p>
+        <p class="currency-top-text mb-3 mb-md-0">{{ .Page.Params.card2.currency}}</p>
+      </div>
+    </div>
+
+    <div class=" col-md-12 mobile list-icons-img mt-auto clearfix hr-part5 text-left"
+      style="margin-left:5%; margin-bottom:5px;">
+      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images mr-2"><span
+        class="ads-icon-text ml-2">{{ .Page.Params.card2.mobile_list}}</span><br>
+    </div>
+
+    <div class="col-md-3 col-lg-3 mt-auto hr-part5">
+      <div class="rating-star desktop">
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+        <span class="star-svg"></span>
+      </div>
+
+      <a href="{{ .Page.Params.card2.button_link}}"
+        class="btn btn-primary list-btn " target="_blank"><span class="btn-text">Visiter le Site</span></a>
+    </div>
+  </div>
+</div>

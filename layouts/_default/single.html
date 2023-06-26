@@ -1,0 +1,52 @@
+{{ define "main"}}
+
+<section class="image-&amp;-content-section py-3">
+  <div class="container">
+    <div class="row">
+      <div class="mr-container">
+        <div class="col-md-8 ">
+          <h1 class="article-title">{{ .Title }}<span class="publish-date">publié le
+            {{ .Date | dateFormat "02/01/2006" }}</span></h1>
+          <img src="{{ .Params.image }}" alt="network image" class="article-banner-image">
+        </div>
+
+        <div class="col-sm-4">
+          <div class="">
+            <div class="card article-card right-card-banner sidebar">
+              <div class="card-body ">
+                <div class="container">
+                  {{partial "sidebar.html" .}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="mr-container">
+        <div class="col-12 col-md-8 py-3 single_content">
+          {{.Content}}
+        </div>          
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ if .Params.disclaimer }}
+<section class="disclaimer">
+  <div class="container">
+      <div class="row">
+          <div class="col-12">
+            {{range .Params.disclaimer}}
+              <p class="capital">{{ . }}</p>
+            {{end}}
+          </div>
+      </div>
+  </div>
+</section>
+{{end}}
+
+{{end}}

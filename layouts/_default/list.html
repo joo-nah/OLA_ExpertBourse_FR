@@ -1,0 +1,43 @@
+{{ define "main"}}
+
+<section class="blog-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <div class="row">
+
+          {{ range .Pages }}
+            <div class="col-md-6 mb-3 mb-md-0">
+              <div class="card article-card blogcard"><a href="{{ .Permalink }}">
+                  <img class="article-image img-fluid" src="{{.Params.image}}" alt="Card image cap"></a>
+                <span class="article-tag">{{ .Params.tag }}</span>
+                <div class="card-body article-card-content">
+                  <h4 class="card-title">{{ .Title }}</h4>
+                  <p class="card-text">{{ .Params.excerpt_text }} ...
+                  </p>
+                </div>
+              </div>
+            </div>
+          {{end}}
+
+        </div>
+      </div>
+
+
+      <div class="col-sm-4">
+        <div class="">
+          <div class="card article-card right-card-banner sidebar">
+            <div class="card-body ">
+              <div class="container">
+                {{partial "sidebar.html" .}}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{end}}

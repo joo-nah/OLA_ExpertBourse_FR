@@ -1,0 +1,40 @@
+cards:
+  - logo: /assets/images/cards/etoro.svg
+    card_enable: true
+    title: Etoro Bank
+    tag: Leader Mondial
+    content:
+      lists:
+        - 0 commission sur les actions
+    percentage: Dépôt Minimum
+    currency: $ 100
+    note: Toutes les actions, 0 % commission
+    capital_note: Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro.com/trading/fees
+    sidebar_capital: Your capital is at risk
+    button:
+      link: >-
+        http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&source=&aff_sub=
+  - logo: /assets/images/cards/easybourse.svg
+    card_enable: true
+    title: EasyBourse Bank
+    tag: Label d'Excellence
+    content:
+      lists:
+        - Frais de transfert remboursés x2
+    percentage: Dépôt Minimum
+    currency: 200 €
+    button:
+      link: >-
+        http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=
+  - logo: /assets/images/cards/saxo.svg
+    card_enable: true
+    title: Saxo Bank
+    tag:
+    content:
+      lists:
+        - Pour les investisseurs débutants ou experts
+    percentage: Dépôt Minimum
+    currency: 300 €
+    button:
+      link: >-
+        http://c.bst-offer.com/aff_c?offer_id=985&aff_id=1054&source=&aff_sub=   

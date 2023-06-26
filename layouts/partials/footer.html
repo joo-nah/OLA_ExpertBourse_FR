@@ -1,0 +1,32 @@
+<footer>
+  <div class="footer">
+      <div class="container">
+          <div class="row mx-0">
+              <div class="col-12 col-md-2 col-lg-2">
+                  <div class="footer-logo">
+                  <a href="{{.Site.BaseURL}}"><img src="{{ .Site.Params.footerLogo }}" class="logo" alt=""></a>
+                  </div>
+              </div>
+              <div class="col-12 col-md-8 col-lg-8">
+                  <ul>
+                    {{ range .Site.Menus.footer }}
+                      <li>
+                        <a href="{{ .URL }}" class="footer-link">{{ .Name }}</a>
+                      </li>
+                    {{end}}
+                  </ul>                   
+              </div>
+              <div class="col-12 col-md-2 col-lg-2 footer-icons">
+<!--                    <a href="#"><img src="assets/images/facebook.png" alt="facebook" class="social-media-icon"></a>-->
+<!--                    <a href="#"><img src="assets/images/twitter.png" alt="twitter" class="social-media-icon"></a>-->
+<!--                    <a href="#"><img src="assets/images/insta.png" alt="instagram" class="social-media-icon"></a>-->
+              </div>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-12 text-center">
+              <p class="footer-copyrights"><span class="copyrights-year">{{ now.Year }}</span> - {{ .Site.Params.copyright }}</p>
+          </div>
+      </div>
+  </div>
+</footer>

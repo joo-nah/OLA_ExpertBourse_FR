@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 14 14"
+   version="1.1"
+   class="uYrfKe"
+   id="svg845"
+   sodipodi:docname="emptystar.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview847"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5"
+     inkscape:cx="7"
+     inkscape:cy="6.9"
+     inkscape:window-width="1167"
+     inkscape:window-height="685"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g843" />
+  <defs
+     id="defs837">
+    <filter
+       id="outline_selected">
+      <feFlood
+         flood-color="#00aacc"
+         result="base"
+         id="feFlood824" />
+      <feMorphology
+         result="bigger"
+         in="SourceGraphic"
+         operator="dilate"
+         radius="1"
+         id="feMorphology826" />
+      <feColorMatrix
+         result="mask"
+         in="bigger"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"
+         id="feColorMatrix828" />
+      <feComposite
+         result="drop"
+         in="base"
+         in2="mask"
+         operator="in"
+         id="feComposite830" />
+      <feGaussianBlur
+         result="blur"
+         in="drop"
+         stdDeviation="1"
+         id="feGaussianBlur832" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blur"
+         mode="normal"
+         id="feBlend834" />
+    </filter>
+  </defs>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill-rule="evenodd"
+     id="g843"
+     style="fill:#008254;fill-opacity:1">
+    <polygon
+       class="_1PB7vl _1bsiB1"
+       points="0,5.0730929 3.813,8.3828487 2.674,13.3 7.001,10.697978 7.003,10.699978 6.996,0 5.03,4.6372567 "
+       id="polygon839"
+       style="fill:#d8d9da;fill-opacity:1" />
+    <polygon
+       class="_3L9xAe _1bsiB1"
+       transform="matrix(-1,0,0,1,20.96,0)"
+       points="6.9899998,5.0730929 10.801366,8.3828487 9.6628543,13.3 13.988001,10.697978 13.99,10.699978 13.983003,-1.0658141e-14 12.017845,4.6372567 "
+       id="polygon841"
+       style="fill:#d8d9da;fill-opacity:1" />
+  </g>
+</svg>

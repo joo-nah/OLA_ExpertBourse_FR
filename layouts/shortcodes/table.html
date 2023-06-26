@@ -1,0 +1,35 @@
+<div class="blog-advantage-table">
+  <table>
+    <tbody>
+      <tr>
+        <th>Avantages</th>
+        <th>Inconvénients</th>
+      </tr>
+      {{ $leftItems := split .Params.left "|" }} 
+      {{ $rightItems := split .Params.right "|" }} 
+      
+      {{ $leftLen := len $leftItems }} 
+      {{ $rightLen := len $rightItems }} 
+      
+      {{ $max := $leftLen }} 
+      {{ if gt $rightLen $max }}
+      {{ $max = $rightLen }}
+      {{ end }} {{ range $i := seq 0 (sub $max 1) }}
+      <tr>
+        <td>
+          {{ with (index $leftItems $i) }} {{ range $j, $leftItem := split . ","
+          }}
+          <p><span class="right"></span>{{ $leftItem }}</p>
+          {{ end }} {{ end }}
+        </td>
+        <td>
+          {{ with (index $rightItems $i) }} {{ range $j, $rightItem := split . ","
+          }}
+          <p><span class="wrong"></span>{{ $rightItem }}</p>
+          {{ end }} {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

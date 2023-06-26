@@ -1,0 +1,87 @@
+{{ $cardCount := 1 }}
+<!---->
+{{ range $index, $card := $.Site.Data.desktop_rank.cards }}
+<!---->
+{{if .card_enable}}
+<!---->
+{{if lt $index 3}}
+
+<div class="d-none d-md-block">
+  <div class="row pdw">
+    <div class="col-5 col-md-5">
+      <div class="ranking-badge">
+        <span class="ranking-no">{{ $cardCount }}</span>
+        
+        {{if .tag }}
+          <span class="ranking-tag">{{ .tag }}</span>
+        {{end}}
+      </div>
+      <div class="rankwidget-logo mt-2">
+        <img src="{{.logo}}" alt="BNP Paribas" class="card-title-img">
+      </div>
+    </div>
+    <div class="col-7 col-md-7">
+      <div class="rankwidget-currency">
+        <div class="currency-btn mt-3">
+          {{with .button}}
+            <a href="{{.link}}"
+              target="_blank" class="btn btn-primary list-btn py-1">
+              <span class="btn-text">Voir l'Offre</span>Sans engagement
+            </a>
+          {{end}}
+        </div>
+
+        {{ if .sidebar_capital }}
+          <p class="capital p-0">{{ .sidebar_capital }}</p>
+        {{end}}
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ $cardCount = add $cardCount 1 }}
+
+{{end}} {{end}} {{end}}
+
+
+{{ $cardCount := 1 }}
+<!---->
+{{ range $index, $card := $.Site.Data.mobile_rank.cards }}
+<!---->
+{{if .card_enable}}
+<!---->
+{{if lt $index 3}}
+
+<div class="d-sm-block d-md-none">
+  <div class="row pdw">
+    <div class="col-5 col-md-5">
+      <div class="ranking-badge">
+        <span class="ranking-no">{{ $cardCount }}</span>
+        
+        {{if .tag }}
+          <span class="ranking-tag">{{ .tag }}</span>
+        {{end}}
+      </div>
+      <div class="rankwidget-logo mt-2">
+        <img src="{{.logo}}" alt="BNP Paribas" class="card-title-img">
+      </div>
+    </div>
+    <div class="col-7 col-md-7">
+      <div class="rankwidget-currency">
+        <div class="currency-btn mt-3">
+          {{with .button}}
+            <a href="{{.link}}"
+              target="_blank" class="btn btn-primary list-btn py-1">
+              <span class="btn-text">Voir l'Offre</span>Sans engagement
+            </a>
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ $cardCount = add $cardCount 1 }}
+
+{{end}} {{end}} {{end}}

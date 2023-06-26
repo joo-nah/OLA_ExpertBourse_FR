@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="70"
+   width="200"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 142.33503 49.729167"
+   id="svg586"
+   sodipodi:docname="societegenerale.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs590" />
+  <sodipodi:namedview
+     id="namedview588"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.6954315"
+     inkscape:cx="101.8605"
+     inkscape:cy="24.718347"
+     inkscape:window-width="2115"
+     inkscape:window-height="1205"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg586" />
+  <style
+     type="text/css"
+     id="style536">
+          .st0{fill:none;}
+          .st1{fill:#E60028;}
+          .st2{fill:#FFFFFF;}
+        </style>
+  <rect
+     x="-10.1"
+     y="-9.8000002"
+     class="st0"
+     width="160.2"
+     height="53.900002"
+     id="rect538" />
+  <g
+     id="g578"
+     transform="matrix(1.3748565,0,0,1.3748565,21.096759,1.5327466)">
+    <path
+       d="m 9.1,15.6 1.3,0.3 c 3.2,0.7 4.6,2.1 4.6,4.6 0,3.1 -2.3,4.8 -6.6,4.8 H 2.8 V 22 c 1.9,0.4 3.8,0.6 5.5,0.6 2.5,0 3.7,-0.7 3.7,-1.9 C 12,19.4 11.4,19 8.6,18.4 L 7.3,18.1 C 4.1,17.5 2.7,16 2.7,13.5 2.7,10.6 5,8.9 9,8.9 h 5.1 v 3.3 c -1.8,-0.4 -3.3,-0.6 -4.9,-0.6 -2.2,0 -3.5,0.7 -3.5,1.9 0,1.2 0.7,1.6 3.4,2.1 z m 22.2,1.5 v 8.2 H 26 c -6,0 -9.4,-3 -9.4,-8.2 0,-5.2 3.5,-8.2 9.4,-8.2 h 4.1 v 3.2 c -1.4,-0.3 -2.9,-0.5 -4.2,-0.5 -3.8,0 -6.1,2 -6.1,5.5 0,3.4 2.3,5.4 6.1,5.4 h 2.5 v -5.4 z"
+       id="path576" />
+  </g>
+  <rect
+     x="73.61628"
+     y="5.6573162"
+     class="st1"
+     width="38.90844"
+     height="17.598164"
+     id="rect580"
+     style="stroke-width:1.37486" />
+  <rect
+     x="73.61628"
+     y="26.967592"
+     width="38.90844"
+     height="17.598164"
+     id="rect582"
+     style="stroke-width:1.37486" />
+  <rect
+     x="73.61628"
+     y="23.117994"
+     class="st2"
+     width="38.90844"
+     height="3.8495982"
+     id="rect584"
+     style="stroke-width:1.37486" />
+</svg>

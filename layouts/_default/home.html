@@ -1,0 +1,468 @@
+{{ define "main"}}
+
+<div id="tablecontents">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-9">
+        <section class="ranking-card-section">
+          <div class="container">
+            <div class="row">
+              <!--Desktop ranking-->
+              <div class="left-table d-none d-md-block">
+                {{ $cardCount := 1 }}
+                <!---->
+                {{ range $index, $card := $.Site.Data.desktop_rank.cards }}
+                <!---->
+                {{if .card_enable}}
+                <!---->
+                {{if lt $index 1}}
+                <div class="horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+                        <span class="ranking-no">{{ $cardCount }}</span>
+
+                        {{if .tag }}
+                        <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                      </div>
+                      <div class="card-logo "><img src="{{.logo}}" alt="bank logo" class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0 hr-part3">
+                      <div class="rating-star mobile">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      {{with .button}}
+                      <a href="{{.link}}" class="btn btn-primary list-btn " target="_blank">
+                        <span class="btn-text">Visiter le Site</span>
+                      </a>
+                      {{end}}
+                    </div>
+                  </div>
+                  <div class="ranking-note"><span>{{ .note }}</span></div>
+                </div>
+                {{ if .capital_note }}
+                  <p class="capital">{{ .capital_note }}</p>
+                {{end}}
+                
+                {{else}}
+                <div class="horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+
+                        {{ $cardCount = add $cardCount 1 }}
+
+                        <span class="ranking-no">{{ $cardCount }}</span>
+
+                        {{if .tag }}
+                        <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                      </div>
+                      <div class="card-logo "><img src="{{.logo}}" alt="bank logo" class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0 hr-part3">
+                      <div class="rating-star mobile">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      {{with .button}}
+                      <a href="{{.link}}" class="btn btn-primary list-btn " target="_blank">
+                        <span class="btn-text">Visiter le Site</span>
+                      </a>
+                      {{end}}
+                    </div>
+                  </div>
+                </div>
+                <!---->
+                {{end}} {{end}}
+                <!---->
+                {{end}}
+              </div>
+
+
+
+
+              <!--Mobile Ranking-->
+              <div class="left-table d-sm-bock d-md-none">
+                {{ $cardCount := 1 }}
+                <!---->
+                {{ range $index, $card := $.Site.Data.mobile_rank.cards }}
+                <!---->
+                {{if .card_enable}}
+                <!---->
+                {{if lt $index 1}}
+                <div class="  horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+                        <span class="ranking-no">{{ $cardCount }}</span>
+                        
+                        {{if .tag }}
+                          <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                        </div>
+                      <div class="card-logo ">
+                        <img src="{{.logo}}" alt="bank logo"
+                          class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0  hr-part3">
+                      <div class="rating-star mobile"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class=" col-md-12 mobile list-icons-img mt-auto clearfix hr-part5 text-left"
+                      style="margin-left:5%; margin-bottom:5px;">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images mr-2" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                        {{with .button}}
+                        <a
+                        href="{{.link}}"
+                        class="btn btn-primary list-btn " target="_blank"><span class="btn-text">Visiter le
+                          Site</span></a>
+                        {{end}}
+                    </div>
+                  </div>
+                  <div class="ranking-note"><span>{{ .note }}</span></div>
+                </div>
+                {{ if .capital_note }}
+                  <p class="capital">{{ .capital_note }}</p>
+                {{end}}
+
+                {{else}}
+                <div class="  horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+
+                        {{ $cardCount = add $cardCount 1 }}
+
+                        <span class="ranking-no">{{ $cardCount }}</span>
+                        
+                        {{if .tag }}
+                          <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                        </div>
+                      <div class="card-logo ">
+                        <img src="{{.logo}}" alt="bank logo"
+                          class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0  hr-part3">
+                      <div class="rating-star mobile"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class=" col-md-12 mobile list-icons-img mt-auto clearfix hr-part5 text-left"
+                      style="margin-left:5%; margin-bottom:5px;">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images mr-2" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                        {{with .button}}
+                        <a
+                        href="{{.link}}"
+                        class="btn btn-primary list-btn " target="_blank"><span class="btn-text">Visiter le
+                          Site</span></a>
+                        {{end}}
+                    </div>
+                  </div>
+                </div>
+                <!---->
+                {{end}} {{end}}
+                <!---->
+                {{end}}
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+
+        <section class="main-content-section">
+          <div class="container">
+            <div class="row">
+              <!--Desktop ranking-->
+              <div class="left-table d-none d-md-block">
+                <h3 class="main-content-title">Le choix des internautes</h3>
+                {{ $cardCount := 1 }}
+                <!---->
+                {{ range $index, $card := $.Site.Data.desktop_rank.cards }}
+                <!---->
+                {{if .card_enable}}
+                <!---->
+                {{if lt $index 1}}
+                <div class="horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+                        <span class="ranking-no">{{ $cardCount }}</span>
+
+                        {{if .tag }}
+                        <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                      </div>
+                      <div class="card-logo "><img src="{{.logo}}" alt="BNP Paribas" class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0 hr-part3">
+                      <div class="rating-star mobile">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop">
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                        <span class="star-svg"></span>
+                      </div>
+                      {{with .button}}
+                      <a href="{{.link}}" class="btn btn-primary list-btn " target="_blank">
+                        <span class="btn-text">Visiter le Site</span>
+                      </a>
+                      {{end}}
+                    </div>
+                  </div>
+                  <div class="ranking-note"><span>{{ .note }}</span></div>
+                </div>
+
+                {{ if .capital_note }}
+                  <p class="capital">{{ .capital_note }}</p>
+                {{end}}
+
+                <!---->
+                {{end}} {{end}}
+                <!---->
+                {{end}}
+
+              </div>
+
+
+
+              <!--Mobile Raning-->
+              <div class="left-table d-sm-block d-md-none">
+                <h3 class="main-content-title">Les utilisateurs ont choisi</h3>
+                {{ $cardCount := 1 }}
+                <!---->
+                {{ range $index, $card := $.Site.Data.mobile_rank.cards }}
+                <!---->
+                {{if .card_enable}}
+                <!---->
+                {{if lt $index 1}}
+                <div class="  horizontal-ranking">
+                  <div class="row ">
+                    <div class="col-md-3 col-lg-3  hr-part1">
+                      <div class="ranking-badge">
+                        <span class="ranking-no">{{ $cardCount }}</span>
+                        
+                        {{if .tag }}
+                          <span class="ranking-tag">{{ .tag }}</span>
+                        {{end}}
+                        </div>
+                      <div class="card-logo ">
+                        <img src="{{.logo}}" alt="bank logo"
+                          class="list-title-img"></div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 list-icons-img mt-auto hr-part2">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-2 col-lg-2 mt-auto p-0  hr-part3">
+                      <div class="rating-star mobile"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                      <div class="currency-container">
+                        <p class="percentage">{{.percentage}}</p>
+                        <p class="currency-top-text mb-3 mb-md-0">{{.currency}}</p>
+                      </div>
+                    </div>
+                    <div class=" col-md-12 mobile list-icons-img mt-auto clearfix hr-part5 text-left"
+                      style="margin-left:5%; margin-bottom:5px;">
+                      {{with .content}}
+                      <!---->
+                      {{range.lists}}
+                      <img src="/assets/images/checked.svg" alt="call image" class="ads-icon-images mr-2" /><span
+                        class="ads-icon-text ml-2">{{.}}</span><br />
+                      {{end}} {{end}}
+                    </div>
+                    <div class="col-md-3 col-lg-3 mt-auto  hr-part5">
+                      <div class="rating-star desktop"><span class="star-svg"></span><span
+                          class="star-svg"></span><span class="star-svg"></span><span class="star-svg"></span><span
+                          class="star-svg"></span></div>
+                        {{with .button}}
+                        <a
+                        href="{{.link}}"
+                        class="btn btn-primary list-btn " target="_blank"><span class="btn-text">Visiter le
+                          Site</span></a>
+                        {{end}}
+                    </div>
+                  </div>
+                  <div class="ranking-note"><span>{{ .note }}</span></div>
+                </div>
+
+                {{ if .capital_note }}
+                  <p class="capital">{{ .capital_note }}</p>
+                {{end}}
+
+                <!---->
+                {{end}} {{end}}
+                <!---->
+                {{end}}
+                <br />
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="main-content-section">
+          <div class="container">
+            <div class="row">
+              <div class="left-table">
+                <div class="home_content content">{{.Content}}</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      </div>
+      <div class="col-12 col-lg-3 pl-0">
+        <div class="right-sidebar">
+          <div class="sidebar-heading">
+            <h3>{{.Params.sidebar.Heading_One}}</h3>
+          </div>
+          <p>{{.Params.sidebar.Content_One}}</p>
+          <div class="sidebar-heading">
+            <h3>{{.Params.sidebar.Heading_Two}}</h3>
+          </div>
+          <p>{{.Params.sidebar.Content_Two}}</p>
+          <div class="sidebar-heading">
+            <h3>{{.Params.sidebar.Heading_Three}}</h3>
+          </div>
+          <p>{{.Params.sidebar.Content_Three}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="footer_disclosuresection">
+  <div class="container">
+    <div class="row">
+      <div class="disclosure_text">
+        <div class="global-disclosure-text">
+          <p>{{ .Site.Params.footer }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
