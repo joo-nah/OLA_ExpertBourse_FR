@@ -18,7 +18,11 @@ Le site est édité par :
 
 Vous pouvez nous contacter :
 
-**olads.holding@gmail.com**<br><br>Le site est hébergé par la société DigitalOcean.
+**olads.holding@gmail.com**
+
+
+
+Le site est hébergé par la société DigitalOcean.
 
 ##### **ARTICLE 3 : Présentation du site**
 
