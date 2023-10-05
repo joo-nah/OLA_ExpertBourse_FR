@@ -4,11 +4,11 @@ date: 2023-05-06T00:00:00Z
 name: General Terms
 layout: terms
 ---
-## **Conditions générales d'utilisation du site [top6comparatifbourse.com](http://top6comparatifbourse.com)**
+## **Conditions générales d'utilisation du site [https://expert-bourse.com/](http://top6comparatifbourse.com)**
 
 ##### **ARTICLE 1 : Objet**
 
-Les présentes « conditions générales d'utilisation » ont pour objet l'encadrement juridique de l’utilisation du site [top6comparatifbourse.com](http://top6comparatifbourse.com) et de ses services. Ce contrat est conclu entre : Le gérant du site internet, ci-après désigné « l’Éditeur », Toute personne physique ou morale souhaitant accéder au site et à ses services, ci-après appelé « l’Utilisateur ». Les conditions générales d'utilisation doivent être acceptées par tout Utilisateur, et son accès au site vaut acceptation de ces conditions.
+Les présentes « conditions générales d'utilisation » ont pour objet l'encadrement juridique de l’utilisation du site&nbsp;**[https://expert-bourse.com/](http://top6comparatifbourse.com)**et de ses services. Ce contrat est conclu entre : Le gérant du site internet, ci-après désigné « l’Éditeur », Toute personne physique ou morale souhaitant accéder au site et à ses services, ci-après appelé « l’Utilisateur ». Les conditions générales d'utilisation doivent être acceptées par tout Utilisateur, et son accès au site vaut acceptation de ces conditions.
 
 ##### **ARTICLE 2 : Mentions légales**
 
@@ -26,7 +26,7 @@ Le site est hébergé par la société DigitalOcean.
 
 ##### **ARTICLE 3 : Présentation du site**
 
-Le Site [www.top6comparatifbourse.com](http://www.top6comparatifbourse.com) est un site internet de comparateur d’informations relatif aux sites de rencontres en France. Il fournit à l’utilisateur un comparatif des sites en fonctions de leurs différentes particularités.
+Le Site [https://expert-bourse.com/](http://www.top6comparatifbourse.com) est un site internet de comparateur d’informations relatif aux sites de rencontres en France. Il fournit à l’utilisateur un comparatif des sites en fonctions de leurs différentes particularités.
 
 ##### **ARTICLE 4 : Informations relatives au comparateur**
 
@@ -38,27 +38,27 @@ Tout Utilisateur ayant accès à internet peut accéder gratuitement et depuis n
 
 ##### **ARTICLE 6 : Responsabilité de l’Utilisateur**
 
-L’Utilisateur assume l’entière responsabilité de l’utilisation qu’il fait des informations et contenus présents sur le site [top6comparatifbourse.com](http://top6comparatifbourse.com).
+L’Utilisateur assume l’entière responsabilité de l’utilisation qu’il fait des informations et contenus présents sur le site **[https://expert-bourse.com/](http://top6comparatifbourse.com)**.
 
 ##### **ARTICLE 7 : Responsabilité de l’Éditeur**
 
-Tout dysfonctionnement du serveur ou du réseau ne peut engager la responsabilité de l’Éditeur. De même, la responsabilité du site ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d'un tiers. Le site [top6comparatifbourse.com](http://top6comparatifbourse.com) s'engage à mettre en œuvre tous les moyens nécessaires pour garantir la sécurité et la confidentialité des données. Toutefois, il n’apporte pas une garantie de sécurité totale. L’Éditeur se réserve la faculté d’une non-garantie de la fiabilité des sources, bien que les informations diffusées du le site soient réputées fiables. Les services proposés par l’éditeur s’adressent à une clientèle dont l’âge est supérieur à 18 ans.
+Tout dysfonctionnement du serveur ou du réseau ne peut engager la responsabilité de l’Éditeur. De même, la responsabilité du site ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d'un tiers. Le site **[https://expert-bourse.com/](http://top6comparatifbourse.com)** s'engage à mettre en œuvre tous les moyens nécessaires pour garantir la sécurité et la confidentialité des données. Toutefois, il n’apporte pas une garantie de sécurité totale. L’Éditeur se réserve la faculté d’une non-garantie de la fiabilité des sources, bien que les informations diffusées du le site soient réputées fiables. Les services proposés par l’éditeur s’adressent à une clientèle dont l’âge est supérieur à 18 ans.
 
 ##### **ARTICLE 8 : Propriété intellectuelle**
 
-Les contenus du site [top6comparatifbourse.com](http://top6comparatifbourse.com) (logos, textes, éléments graphiques, vidéos, etc.) sont protégés par le droit d’auteur, en vertu du Code de la propriété intellectuelle. L’Utilisateur devra obtenir l’autorisation de l’éditeur du site avant toute reproduction, copie ou publication de ces différents contenus. Ces derniers peuvent être utilisés par les utilisateurs à des fins privées ; tout usage commercial est interdit.
+Les contenus du site **[https://expert-bourse.com/](http://top6comparatifbourse.com)** (logos, textes, éléments graphiques, vidéos, etc.) sont protégés par le droit d’auteur, en vertu du Code de la propriété intellectuelle. L’Utilisateur devra obtenir l’autorisation de l’éditeur du site avant toute reproduction, copie ou publication de ces différents contenus. Ces derniers peuvent être utilisés par les utilisateurs à des fins privées ; tout usage commercial est interdit.
 
 ##### **ARTICLE 9 : Données personnelles**
 
-[top6comparatifbourse.com](http://top6comparatifbourse.com) garantie le respect de la vie privée de l’utilisateur, conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+**[https://expert-bourse.com/](http://top6comparatifbourse.com)** garantie le respect de la vie privée de l’utilisateur, conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 ##### **ARTICLE 10 : Liens hypertextes**
 
-Les domaines vers lesquels mènent les liens hypertextes présents sur le site n’engagent pas la responsabilité de l’Éditeur de [top6comparatifbourse.com](http://top6comparatifbourse.com), qui n’a pas de contrôle sur ces liens.
+Les domaines vers lesquels mènent les liens hypertextes présents sur le site n’engagent pas la responsabilité de l’Éditeur de **[https://expert-bourse.com/](http://top6comparatifbourse.com)**, qui n’a pas de contrôle sur ces liens.
 
 ##### **ARTICLE 11 : Évolution des conditions générales d’utilisation**
 
-Le site [top6comparatifbourse.com](http://top6comparatifbourse.com) se réserve le droit de modifier les clauses de ces conditions générales d’utilisation à tout moment et sans justification.
+Le site **[https://expert-bourse.com/](http://top6comparatifbourse.com)** se réserve le droit de modifier les clauses de ces conditions générales d’utilisation à tout moment et sans justification.
 
 ##### **ARTICLE 12 : Durée du contrat**
 
