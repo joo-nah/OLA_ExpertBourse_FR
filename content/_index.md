@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Les meilleurs Courtiers en Bourse
 sidebar:
   Heading_One: Le Saviez-vous ?
   content_One: Le nombre d'investisseurs en bourse en France est estimé à environ 10 % de la population française.
