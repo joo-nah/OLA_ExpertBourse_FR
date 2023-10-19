@@ -43,11 +43,11 @@ eToro est certainement l’une des plateformes de trading les plus mises en avan
 
 eToro est un des leaders sur le marché en raison de nombreux avantages :
 
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; une plateforme simple et didactique à utiliser
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; une plateforme simple et didactique à utiliser
 
 eToro est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
 
@@ -65,10 +65,10 @@ En cas de besoin, le service client est joignable par téléphone (5j/7, de 9h �
 
 Enfin, concernant les frais, il faut noter que l’offre EasyBourse&nbsp; c’est aussi :
 
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de droits de garde
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de frais pour la participation aux assemblées générales
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de frais de transfert
-* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 % de droits d'entrée sur les fonds négociés
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de droits de garde
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de frais de transfert
+* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 % de droits d'entrée sur les fonds négociés
 
 En bref, EasyBourse vous permettra de trader facilement, que vous soyez débutant ou confirmé. C’est l’acteur en qui vous pouvez avoir confiance !
 
