@@ -30,7 +30,8 @@ cards:
     percentage: Dépôt Minimum
     currency: 200 €
     button:
-      link: http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=
+      link: >-
+        http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&aff_sub2=web&aff_sub=
   - logo: /assets/images/cards/saxo.svg
     card_enable: true
     title: Saxo Bank
