@@ -2,7 +2,7 @@ cards:
   - logo: /assets/images/cards/etoro.svg
     card_enable: true
     title: 'Etoro '
-    tag: 'Leader Mondial: 30 millions d''utilisateurs'
+    tag: 30 millions d'utilisateurs
     content:
       lists:
         - Investir dans les Actions, Devises, l'Or, le Pétrole...
