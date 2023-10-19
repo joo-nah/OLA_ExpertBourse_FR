@@ -1,15 +1,15 @@
 cards:
   - logo: /assets/images/cards/etoro.svg
     card_enable: true
-    title: Etoro Bank
-    tag: Leader Mondial
+    title: 'Etoro '
+    tag: 'Leader Mondial: 30 millions d''utilisateurs'
     content:
       lists:
-        - 0 commission sur les actions
-        - Plus de 4500 actifs disponibles
-        - Elue Meilleure App en 2021
+        - Investir dans les Actions, Devises, l'Or, le Pétrole...
+        - 0% commission sur les actions
+        - 'Pour les débutants : Suivre et copier les meilleurs Traders'
     percentage: Dépôt Minimum
-    currency: $ 100
+    currency: € 100
     note: Toutes les actions, 0 % commission
     capital_note: >-
       Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour
@@ -17,7 +17,7 @@ cards:
     sidebar_capital: Your capital is at risk
     button:
       link: >-
-        http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=web&aff_sub=
+        https://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=web&aff_sub=
   - logo: /assets/images/cards/easybourse.svg
     card_enable: true
     title: EasyBourse Bank
