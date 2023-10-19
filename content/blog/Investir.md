@@ -4,18 +4,18 @@ image: /assets/images/traderepublic_image.jpg
 date: 2023-03-07T12:00:00Z
 excerpt_text: Les matières premières sont...
 tag: Revue
-card: 
+card:
     logo: /assets/images/cards/etoro.svg
-    items: 
-        - 0 commission sur les actions
-        - Plus de 4500 actifs disponibles
-        - Elue Meilleure App en 2021
+    items:
+        - Investir dans les Actions, Devises, l'Or, le Pétrole...
+        - 0% commission sur les actions
+        - Suivre et copier les meilleurs Traders
     percentage: Dépôt Minimum
-    currency: $ 100
+    currency: 100€
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
-    button_link: http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&source=&aff_sub=
+    button_link: >-
+        https://www.top-rk.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=article&aff_sub=
 ---
-
 [Les matières premières](http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&source=&aff_sub=&aff_sub2=text) telles que l'or, l'argent, le pétrole, etc., est une pratique courante parmi les investisseurs. Ces matières premières sont utilisées dans de nombreux secteurs, notamment l'industrie, l'énergie, l'agriculture, la bijouterie et la médecine, ce qui en fait des produits de base essentiels
 
 ## \#1 Pourquoi les matières premières sont considérés comme des actifs sûrs
