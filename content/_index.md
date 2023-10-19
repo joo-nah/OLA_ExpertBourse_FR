@@ -19,7 +19,7 @@ banner:
     title: Les meilleurs Courtiers en Bourse
     subTitle: Pour Experts ou débutants Investissez en bourse à moindre Frais !
     para1: >-
-      Avec un dépôt de 100 euros, commencez à investir en bourse avec notre
+      À partir de 10 euros de dépôts, commencez à investir en bourse avec notre
       comparatif de courtiers et plateformes de trading en ligne.
     para2: Investir comporte un risque de perte.
   mobile:
