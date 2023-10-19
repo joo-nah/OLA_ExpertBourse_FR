@@ -35,48 +35,42 @@ Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en
 
 À ce titre, il met à disposition des investisseurs particuliers une plateforme leur permettant de se positionner sur les marchés et produits financiers souhaités par Internet, via une application mobile ou par téléphone auprès d’un conseiller. C’est aussi lui qui conserve vos actions et vos titres sur les enveloppes que vous aurez ouvertes chez lui.
 
-> [Etoro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub3=IndexText) : Investissez à votre manière. Sans commission ou à des frais très réduits, tout comme 2 millions d'autres investisseurs. La principale plateforme de trading et d'investissement d'Europe est à vous. [Plus d'informations ici](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub3=IndexText)
-
 {{< home_card >}}
 
 ## \#2 eToro : la plateforme la plus pédagogue pour commencer
 
-[Etoro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est certainement l’une des plateformes de trading les plus mises en avant. eToro est tout d’abord connue pour être une plateforme de “social trading”, l’idée étant de s’entraider entre inscrits, de partager les connaissances pour mieux trader.
+eToro est certainement l’une des plateformes de trading les plus mises en avant. eToro est tout d’abord connue pour être une plateforme de “social trading”, l’idée étant de s’entraider entre inscrits, de partager les connaissances pour mieux trader.
 
-[Etoro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est un des leaders sur le marché en raison de nombreux avantages :
+eToro est un des leaders sur le marché en raison de nombreux avantages :
 
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 commission sur les actions en position longue sans effet de levier
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; une plateforme simple et didactique à utiliser
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; une plateforme simple et didactique à utiliser
 
-[eToro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
-
-**[&gt;&gt; Inscrivez vous sur eToro ICI](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text)**
+eToro est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
 
 ## \#3 EasyBourse, où la sécurité et la confiance sont les maîtres mots.
 
-Filiale de La Banque Postale depuis 2008, [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est un courtier en ligne 100% digital.
+Filiale de La Banque Postale depuis 2008, EasyBourse &nbsp;est un courtier en ligne 100% digital.
 
 Sa plateforme simple et facile d'utilisation ainsi que ses guides d’utilisation vous permettront d’atteindre vos objectifs rapidement.
 
-[EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) se veut le plus exhaustif possible, vous avez ainsi la possibilité de passer des ordres sur différentes places boursières aussi bien sur le marché français qu’européen. Retrouvez ainsi des actions, OPCVM et autres sur Euronext et aussi à l’étranger.
+EasyBourse &nbsp;se veut le plus exhaustif possible, vous avez ainsi la possibilité de passer des ordres sur différentes places boursières aussi bien sur le marché français qu’européen. Retrouvez ainsi des actions, OPCVM et autres sur Euronext et aussi à l’étranger.
 
-[EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) met également en ligne de nombreuses offres promotionnelles.
+EasyBourse &nbsp;met également en ligne de nombreuses offres promotionnelles.
 
 En cas de besoin, le service client est joignable par téléphone (5j/7, de 9h à 20h) et par email.
 
-Enfin, concernant les frais, il faut noter que l’offre [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) c’est aussi :
+Enfin, concernant les frais, il faut noter que l’offre EasyBourse&nbsp; c’est aussi :
 
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de droits de garde
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais pour la participation aux assemblées générales
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais de transfert
-* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 % de droits d'entrée sur les fonds négociés
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de droits de garde
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 € de frais de transfert
+* &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; 0 % de droits d'entrée sur les fonds négociés
 
-En bref, [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) vous permettra de trader facilement, que vous soyez débutant ou confirmé. C’est l’acteur en qui vous pouvez avoir confiance !
-
-**[&gt;&gt; Inscrivez-vous sur EasyBourse ICI](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text)**
+En bref, EasyBourse vous permettra de trader facilement, que vous soyez débutant ou confirmé. C’est l’acteur en qui vous pouvez avoir confiance !
 
 ## \#4 En bref
 
