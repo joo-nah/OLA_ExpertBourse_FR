@@ -48,3 +48,17 @@ cards:
     button:
       link: >-
         https://www.top-rk.com/aff_c?offer_id=985&aff_id=1054&aff_sub2=web&aff_sub=
+  - logo: /assets/images/cards/traderepublic.svg
+    card_enable: true
+    title: Trade Republic
+    tag:
+    content:
+      lists:
+        - Plateforme Fiable et Transparente
+        - Application mobile conviviale
+        - Initiatives éducatives pour les débutants
+    percentage: Dépôt Minimum
+    currency: 10€
+    button:
+      link: >-
+        https://c.bst-offer.com/aff_c?offer_id=775&aff_id=1054&aff_sub2=web&aff_sub=
