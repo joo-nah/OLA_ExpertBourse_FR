@@ -4,25 +4,25 @@ image: /assets/images/hero_qsn_tablette.png
 date: 2023-02-07T12:00:00Z
 excerpt_text: Vous voulez vous lancer en bourse...
 tag: Revue
-card: 
+card:
     logo: /assets/images/cards/easybourse.svg
-    items: 
+    items:
         - Frais de transfert remboursés x2
         - Frais de courtage remboursés (50 ordres maximum)
         - ProRealTime Offert
     percentage: Dépôt Minimum
     currency: 200 €
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
-    button_link: http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=&aff_sub3=repeat1
+    button_link: >-
+        http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=&aff_sub3=repeat1
 ---
-
 ## \#1 Notre Avis sur EasyBourse, le courtier en ligne de La Banque Postale
 
 Vous voulez vous lancer en bourse mais vous ne savez pas trop par où commencer ? EasyBourse est une solution simple et pratique pour démarrer ! Découvrez dans cet article pourquoi choisir EasyBourse.
 
 EasyBourse est une filiale de La Banque Postale depuis 2008. C’est un courtier en ligne 100 % digital qui vous propose de nombreuses offres, outils et services pour découvrir l’investissement boursier sans vous tracasser. Soutenu par un grand groupe français, EasyBourse s’est fait une place comme courtier en ligne depuis un moment et cela pour différentes raisons.
 
-> [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=&aff_sub3=IndexText) : L'offre du moment. Profitez de 6 mois à 1€ sur HelloPrime. 0 Frais en plus. 0 Engagement. Une banque transparente, qui garantit une sécurité technologique et un niveau de performance maximal.
+> [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub3=IndexText) : L'offre du moment. Profitez de 6 mois à 1€ sur HelloPrime. 0 Frais en plus. 0 Engagement. Une banque transparente, qui garantit une sécurité technologique et un niveau de performance maximal.
 
 ## \#2 Les avantages et inconvénients
 
@@ -32,9 +32,9 @@ EasyBourse est une filiale de La Banque Postale depuis 2008. C’est un courtier
 
 EasyBourse permet d’ouvrir différentes types de placements :
 
-- **&nbsp;** Un CTO : compte-titres-ordinaires, l’enveloppe par défaut qui permet d’avoir accès à toutes les actions.
-- **&nbsp;** Un PEA* : plan épargne actions ainsi que le PEA-PME pour y loger des entreprises non cotées, ou encore le PEA Jeunes pour les jeunes de 18 à 25 ans.
-- **&nbsp;** Une assurance vie : EasyVie
+* &nbsp;**&nbsp;**&nbsp; Un CTO : compte-titres-ordinaires, l’enveloppe par défaut qui permet d’avoir accès à toutes les actions.
+* &nbsp;**&nbsp;**&nbsp; Un PEA\* : plan épargne actions ainsi que le PEA-PME pour y loger des entreprises non cotées, ou encore le PEA Jeunes pour les jeunes de 18 à 25 ans.
+* &nbsp;**&nbsp;**&nbsp; Une assurance vie : EasyVie
 
 Bien qu’en ligne, EasyBourse n’a rien à envier aux offres traditionnelles puisqu’elle permet les mêmes placements avec en prime une facilité certaine.
 
@@ -46,10 +46,10 @@ Dans l’ensemble, EasyBourse se situe sur une fourchette moyenne du marché et 
 
 Cependant il faut noter que l’offre EasyBourse c’est aussi :
 
-- **&nbsp;** 0 € de droits de garde
-- **&nbsp;** 0 € de frais pour la participation aux assemblées générales
-- **&nbsp;** 0 € de frais de transfert
-- **&nbsp;** 0 % de droits d'entrée sur les fonds négociés
+* &nbsp;**&nbsp;**&nbsp; 0 € de droits de garde
+* &nbsp;**&nbsp;**&nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp;**&nbsp;**&nbsp; 0 € de frais de transfert
+* &nbsp;**&nbsp;**&nbsp; 0 % de droits d'entrée sur les fonds négociés
 
 On retrouve ainsi 4 formules EasyBourse :
 
@@ -65,4 +65,4 @@ Par ailleurs, on aime notamment que cette plateforme puissent aussi bien conveni
 
 Pour conclure, si investir en ligne vous intéresse, EasyBourse est un acteur en qui avoir confiance et qui vous permettra de facilement diversifier vos portefeuilles d’actions. N’attendez plus avant de rejoindre la plateforme !
 
-*Offre soumise à conditions
+\*Offre soumise à conditions
