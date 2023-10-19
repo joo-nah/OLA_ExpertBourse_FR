@@ -9,7 +9,7 @@ cards:
         - 0% commission sur les actions
         - Suivre et copier les meilleurs Traders
     percentage: Dépôt Minimum
-    currency: € 100
+    currency: 100€
     note: Toutes les actions, 0 % commission
     capital_note: >-
       Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour
@@ -20,18 +20,18 @@ cards:
         https://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=web&aff_sub=
   - logo: /assets/images/cards/easybourse.svg
     card_enable: true
-    title: EasyBourse Bank
-    tag: Label d'Excellence
+    title: 'EasyBourse '
+    tag: Prix de l'entreprise citoyenne 2023
     content:
       lists:
-        - Frais de transfert remboursés x2
-        - Frais de courtage remboursés (50 ordres maximum)
-        - ProRealTime Offert
+        - 'Offre Bourse pour les 18 à 30 ans '
+        - Webinaires pour les débutants
+        - Groupe de la Banque Postale
     percentage: Dépôt Minimum
-    currency: 200 €
+    currency: 50€
     button:
       link: >-
-        http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&aff_sub2=web&aff_sub=
+        https://www.top-rk.com/aff_c?offer_id=792&aff_id=1054&aff_sub2=web&aff_sub=
   - logo: /assets/images/cards/saxo.svg
     card_enable: true
     title: Saxo Bank
@@ -45,4 +45,4 @@ cards:
     currency: 300 €
     button:
       link: >-
-        http://c.bst-offer.com/aff_c?offer_id=985&aff_id=1054&aff_sub2=web&aff_sub=
+        https://www.top-rk.com/aff_c?offer_id=985&aff_id=1054&aff_sub2=web&aff_sub=
