@@ -25,13 +25,13 @@ banner:
   mobile:
     title: Les Meilleurs Sites de /Bourse/
 ---
-## \#1 Investir en bourse : quel site de bourse en ligne choisir?
+## \#1 Investir en bourse : quel site de bourse en ligne choisir ?
 
 Les sites de bourse en ligne se sont démocratisés mais pour autant faire un comparatif entre les différentes offres s’avère compliqué.
 
 ##### Le B.A-BA du courtage en Bourse
 
-Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en Bourse ou broker est un intermédiaire entre l’investisseur ou le trader et les marchés financiers. Il exécute en effet les ordres de Bourse pour le compte de l’investisseur ou du trader, qu’il s’agisse d’ordres de vente ou d’ordres d’achat.
+Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en Bourse ou&nbsp; broker est un intermédiaire entre l’investisseur ou le trader et les marchés financiers. Il exécute en effet les ordres de Bourse pour le compte de l’investisseur ou du trader, qu’il s’agisse d’ordres de vente ou d’ordres d’achat.
 
 À ce titre, il met à disposition des investisseurs particuliers une plateforme leur permettant de se positionner sur les marchés et produits financiers souhaités par Internet, via une application mobile ou par téléphone auprès d’un conseiller. C’est aussi lui qui conserve vos actions et vos titres sur les enveloppes que vous aurez ouvertes chez lui.
 
