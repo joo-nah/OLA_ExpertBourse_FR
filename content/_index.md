@@ -45,11 +45,11 @@ Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en
 
 [Etoro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est un des leaders sur le marché en raison de nombreux avantages :
 
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 commission sur les actions en position longue sans effet de levier
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; une plateforme simple et didactique à utiliser
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 commission sur les actions en position longue sans effet de levier
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; une plateforme simple et didactique à utiliser
 
 [eToro](http://c.bst-offer.com/aff_c?offer_id=776&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
 
@@ -69,10 +69,10 @@ En cas de besoin, le service client est joignable par téléphone (5j/7, de 9h �
 
 Enfin, concernant les frais, il faut noter que l’offre [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) c’est aussi :
 
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de droits de garde
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de frais pour la participation aux assemblées générales
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de frais de transfert
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 % de droits d'entrée sur les fonds négociés
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de droits de garde
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais de transfert
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 % de droits d'entrée sur les fonds négociés
 
 En bref, [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054&amp;source=&amp;aff_sub=&amp;aff_sub2=text) vous permettra de trader facilement, que vous soyez débutant ou confirmé. C’est l’acteur en qui vous pouvez avoir confiance !
 
@@ -82,6 +82,6 @@ En bref, [EasyBourse](http://www.filaduto.com/aff_c?offer_id=792&amp;aff_id=1054
 
 Investir en ligne devient petit à petit un réel sport dans lequel tout le monde souhaite se lancer et cela est plus que possible grâce aux nombreux webinars en ligne pour maîtriser le sujet.
 
-Avec des plateformes comme eToro, DEGIRO ou encore TradeRepublic vous pouvez vous lancer en toute sécurité.
+Avec des plateformes comme eToro, Saxo, Easy Bourse ou encore TradeRepublic vous pouvez vous lancer en toute sécurité.
 
 Votre capital est en jeu, investir comporte des risques alors renseignez-vous avant de vous lancer !
