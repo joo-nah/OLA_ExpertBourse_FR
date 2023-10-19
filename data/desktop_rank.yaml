@@ -11,11 +11,13 @@ cards:
     percentage: Dépôt Minimum
     currency: $ 100
     note: Toutes les actions, 0 % commission
-    capital_note: Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro.com/trading/fees
+    capital_note: >-
+      Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour
+      plus d'informations, visitez etoro.com/trading/fees
     sidebar_capital: Your capital is at risk
     button:
       link: >-
-        http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&source=&aff_sub=
+        http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=web&aff_sub=
   - logo: /assets/images/cards/easybourse.svg
     card_enable: true
     title: EasyBourse Bank
@@ -28,8 +30,7 @@ cards:
     percentage: Dépôt Minimum
     currency: 200 €
     button:
-      link: >-
-        http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=
+      link: http://www.filaduto.com/aff_c?offer_id=792&aff_id=1054&source=&aff_sub=
   - logo: /assets/images/cards/saxo.svg
     card_enable: true
     title: Saxo Bank
