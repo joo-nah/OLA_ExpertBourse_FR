@@ -1,31 +1,32 @@
 ---
-title: Découvrez les 2 meilleurs sites de trading en ligne
+title: TradeRepublic VS eToro
 image: /assets/images/3meilleurs.jpg
 date: 2023-02-07T12:00:00Z
 excerpt_text: Vous désirez vous lancer en bourse et vous recherchez...
 tag: Conseils
-card: 
+card:
     logo: /assets/images/cards/etoro.svg
-    items: 
-        - 0 commission sur les actions
-        - Plus de 4500 actifs disponibles
-        - Elue Meilleure App en 2021
+    items:
+        - Investir dans les Actions, Devises, l'Or, le Pétrole...
+        - 0% commission sur les actions
+        - Suivre et copier les meilleurs Traders
     percentage: Dépôt Minimum
-    currency: $ 100
+    currency: 100€
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
-    button_link: http://c.bst-offer.com/aff_c?offer_id=776&aff_id=1054&source=&aff_sub=
-card2: 
+    button_link: >-
+        https://www.top-rk.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=article&aff_sub=
+card2:
     logo: /assets/images/cards/traderepublic.svg
-    items: 
-        - Dynamisez et diversifiez votre portefeuille
-        - "Frais Fixes : /1€/ / Ordre"
-        - 7500 Actions & 1000 ETF
+    items:
+        - Plateforme Fiable et Transparente
+        - Application mobile conviviale
+        - Initiatives éducatives pour les débutants
     percentage: Dépôt Minimum
-    currency: 0 €
+    currency: 10 €
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
-    button_link: http://c.bst-offer.com/aff_c?offer_id=775&aff_id=1054&source=&aff_sub=&aff_sub3=repeat1
+    button_link: >-
+        https://c.bst-offer.com/aff_c?offer_id=775&aff_id=1054&aff_sub2=article&aff_sub=
 ---
-
 Vous désirez vous lancer en bourse et vous recherchez le meilleur site de trading ? En plus de vous interroger sur les marchés et les instruments sur lesquels vous allez investir, il vous faut en effet choisir un site de trading fiable pour passer vos ordres en toute sécurité. Découvrez notre top 3 dans cet article : TradeRepublic, eToro.
 
 ## \#1 L'univers TradeRepublic
