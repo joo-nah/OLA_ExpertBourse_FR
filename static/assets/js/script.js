@@ -125,7 +125,7 @@ $(document).ready(function () {
       );
     });
     
-  if (getCookie("Expert-Banques") != "true") {
+  if (getCookie("Expert-Bourse") != "true") {
     setTimeout(function () {
       $("#cookieConsent").fadeIn(200);
     }, 1000);
@@ -133,7 +133,7 @@ $(document).ready(function () {
 
   $("#footer_privacy_container_button, .footer_privacy_button").click(
     function () {
-      setCookie("Expert-Banques", "true", 365);
+      setCookie("Expert-Bourse", "true", 365);
       $("#cookieConsent").fadeOut(200);
     }
   );
