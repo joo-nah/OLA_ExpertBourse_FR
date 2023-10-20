@@ -32,9 +32,9 @@ EasyBourse est une filiale de La Banque Postale depuis 2008. C’est un courtier
 
 EasyBourse permet d’ouvrir différentes types de placements :
 
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; Un CTO : compte-titres-ordinaires, l’enveloppe par défaut qui permet d’avoir accès à toutes les actions.
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; Un PEA\* : plan épargne actions ainsi que le PEA-PME pour y loger des entreprises non cotées, ou encore le PEA Jeunes pour les jeunes de 18 à 25 ans.
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; Une assurance vie : EasyVie
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; Un CTO : compte-titres-ordinaires, l’enveloppe par défaut qui permet d’avoir accès à toutes les actions.
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; Un PEA\* : plan épargne actions ainsi que le PEA-PME pour y loger des entreprises non cotées, ou encore le PEA Jeunes pour les jeunes de 18 à 25 ans.
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; Une assurance vie : EasyVie
 
 Bien qu’en ligne, EasyBourse n’a rien à envier aux offres traditionnelles puisqu’elle permet les mêmes placements avec en prime une facilité certaine.
 
@@ -46,10 +46,10 @@ Dans l’ensemble, EasyBourse se situe sur une fourchette moyenne du marché et 
 
 Cependant il faut noter que l’offre EasyBourse c’est aussi :
 
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de droits de garde
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de frais pour la participation aux assemblées générales
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 € de frais de transfert
-* &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; 0 % de droits d'entrée sur les fonds négociés
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de droits de garde
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 € de frais de transfert
+* &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; 0 % de droits d'entrée sur les fonds négociés
 
 On retrouve ainsi 4 formules EasyBourse :
 
