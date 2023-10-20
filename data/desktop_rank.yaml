@@ -12,8 +12,7 @@ cards:
     currency: 100€
     note: Toutes les actions, 0 % commission
     capital_note: >-
-      Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour
-      plus d'informations, visitez etoro.com/trading/fees
+      Votre capital est assujetti à un risque.
     sidebar_capital: Your capital is at risk
     button:
       link: >-
