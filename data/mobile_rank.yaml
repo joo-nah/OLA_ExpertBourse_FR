@@ -11,8 +11,7 @@ cards:
     percentage: Dépôt Minimum
     currency: 100€
     note: Toutes les actions, 0 % commission
-    capital_note: >-
-      Votre capital est assujetti à un risque.
+    capital_note: Votre capital est assujetti à un risque.
     sidebar_capital: Your capital is at risk
     button:
       link: >-
@@ -47,7 +46,7 @@ cards:
     button:
       link: >-
         https://www.top-rk.com/aff_c?offer_id=985&aff_id=1054&aff_sub2=mob&aff_sub=
-  - logo: /assets/images/cards/traderepublic.svg
+  - logo: /assets/images/trade-republic-logo.png
     card_enable: true
     title: Trade Republic
     tag:
