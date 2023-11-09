@@ -82,6 +82,8 @@ Si votre objectif est de mettre toutes les chances de votre côté et d’évite
 
 {{< blog-card >}}
 
+eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro.com/trading/fees.
+
 ## \#4 Découvrir l’application eToro
 
 Lancée en 2012, l’application d’[eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) permet de retrouver les services web sur une interface mobile compatible iOS et Android.
