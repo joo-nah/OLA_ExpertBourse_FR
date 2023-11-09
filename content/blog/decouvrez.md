@@ -69,7 +69,7 @@ Voici quelques points à prendre en compte avant de choisir eToro.
 
 {{< blog-card >}}
 
-eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.
+*eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.*
 
 ## Le mot de la fin
 
