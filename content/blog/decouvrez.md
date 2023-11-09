@@ -69,6 +69,8 @@ Voici quelques points à prendre en compte avant de choisir eToro.
 
 {{< blog-card >}}
 
+eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.
+
 ## Le mot de la fin
 
 Que ce soit eToro, TradeRepublic ou DEGIRO : vous êtes face à trois brokers en ligne qui permettent en toute sécurité de rapidement développer votre portefeuille avec des instruments financiers variés. Vous aurez dans les trois cas accès à des ressources pour vous accompagner dans cette aventure du trading et accroître votre potentiel financier.
