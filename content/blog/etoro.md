@@ -82,7 +82,7 @@ Si votre objectif est de mettre toutes les chances de votre côté et d’évite
 
 {{< blog-card >}}
 
-eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro.com/trading/fees.
+*eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.*
 
 ## \#4 Découvrir l’application eToro
 
