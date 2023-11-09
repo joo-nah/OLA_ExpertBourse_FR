@@ -60,6 +60,8 @@ Créée en 2007, [eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=10
 
 > [Etoro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) : Investissez à votre manière. À des frais très réduits, tout comme 2 millions d'autres investisseurs. La principale plateforme de trading et d'investissement d'Europe est à vous. [Plus d'informations ici](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=)
 
+*eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.*
+
 La plateforme [eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) est aussi largement tournée vers les crypto-monnaies : plus de 30 devises virtuelles sont disponibles.
 
 Enfin [eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) c’est aussi une success story : la plateforme est utilisée par des millions de personnes à travers 140 pays dans le monde.
@@ -83,6 +85,8 @@ En fonction des cas, vous pourrez commencer à développer votre propre stratég
 Si votre objectif est de mettre toutes les chances de votre côté et d’éviter de perdre inutilement de l’argent, [eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) est une alternative idéale pour vous.
 
 {{< blog-card >}}
+
+*eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.*
 
 ## \#4 Découvrir l’application eToro
 
