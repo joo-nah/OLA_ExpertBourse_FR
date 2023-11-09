@@ -65,7 +65,7 @@ Ainsi si votre objectif est de mettre toutes les chances de votre côté et d’
 
 Voici quelques points à prendre en compte avant de choisir eToro.
 
-{{< table left="Le trading d’actions et de est entièrement gratuit, La plateforme offre une navigation simple et très intuitive, Les copy traders sont nombreux et répondent aux besoins de tous, Les fonctions de sécurité sont solides et approuvées par les institutions financières" right="Les frais de change peuvent être élevés, La plateforme n’est pas disponible dans tous les pays" >}}
+{{< table left="Le trading d’actions est entièrement gratuit, La plateforme offre une navigation simple et très intuitive, Les copy traders sont nombreux et répondent aux besoins de tous, Les fonctions de sécurité sont solides et approuvées par les institutions financières" right="Les frais de change peuvent être élevés, La plateforme n’est pas disponible dans tous les pays" >}}
 
 {{< blog-card >}}
 
