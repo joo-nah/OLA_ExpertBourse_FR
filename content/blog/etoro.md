@@ -31,11 +31,13 @@ disclaimer:
         presented is less than 5 complete years and may not suffice as basis for
         investment decision.
     - >-
-        When adding or updating the ESMA CFD disclaimer on your website, please refer to the this document and carefully
-        read the instructions. 76% of retail investor accounts lose money when trading CFDs with this provider. You shouldconsider whether you can afford to take the high risk of losing your money.
-        Copy trading is a portfolio management service, provided by eToro
-        (Europe) Ltd., which is authorised and regulated by the Cyprus
-        Securities and Exchange Commission.
+        When adding or updating the ESMA CFD disclaimer on your website, please
+        refer to the this document and carefully read the instructions. 76% of
+        retail investor accounts lose money when trading CFDs with this
+        provider. You shouldconsider whether you can afford to take the high
+        risk of losing your money. Copy trading is a portfolio management
+        service, provided by eToro (Europe) Ltd., which is authorised and
+        regulated by the Cyprus Securities and Exchange Commission.
     - >-
         Crypto investing is offered by eToro (Europe) Ltd as a DASP, registered
         with the AMF. Cryptoasset investing is highly volatile. No consumer
@@ -75,6 +77,8 @@ Voici quelques avantages et inconvénients d’[eToro](https://www.top-rk.com/af
 {{< table left="Le trading d’actions est entièrement gratuit, La plateforme offre une navigation simple et très intuitive, Les fonctions de sécurité sont solides et approuvées par les institutions financières" right="Les frais de change peuvent être élevés, La plateforme n’est pas disponible dans tous les pays" >}}
 
 D’un point de vue général, [eToro](https://www.top-rk.com/aff_c?offer_id=776&amp;aff_id=1054&amp;aff_sub2=article&amp;aff_sub=) propose quantitativement plus d’avantages que d’inconvénients. La plateforme est sûre, facile à utiliser et l’accompagnement est optimal pour s’y retrouver.
+
+Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.
 
 ## \#3 À qui s’adresse eToro ?
 
