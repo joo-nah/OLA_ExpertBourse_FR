@@ -21,7 +21,7 @@ disclaimer:
         and cryptoassets, as well as trading CFDs.
     - >-
         Please note that CFDs are complex instruments and come with a high risk
-        of losing money rapidly due to leverage. 81% of retail investor accounts
+        of losing money rapidly due to leverage. 76% of retail investor accounts
         lose money when trading CFDs with this provider. You should consider
         whether you understand how CFDs work, and whether you can afford to take
         the high risk of losing your money. You will never lose more than the
@@ -31,6 +31,8 @@ disclaimer:
         presented is less than 5 complete years and may not suffice as basis for
         investment decision.
     - >-
+        When adding or updating the ESMA CFD disclaimer on your website, please refer to the this document and carefully
+        read the instructions. 76% of retail investor accounts lose money when trading CFDs with this provider. You shouldconsider whether you can afford to take the high risk of losing your money.
         Copy trading is a portfolio management service, provided by eToro
         (Europe) Ltd., which is authorised and regulated by the Cyprus
         Securities and Exchange Commission.
