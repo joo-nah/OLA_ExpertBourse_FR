@@ -17,36 +17,41 @@ card:
         https://www.top-rk.com/aff_c?offer_id=776&aff_id=1054&aff_sub2=article&aff_sub=
 disclaimer:
     - >-
-        eToro is a multi-asset platform which offers both investing in stocks
-        and cryptoassets, as well as trading CFDs.
+        eToro est une plateforme multi-actifs qui propose à la fois d'investir
+        dans des actions et des crypto-actifs, ainsi que de négocier des CFD.
     - >-
-        Please note that CFDs are complex instruments and come with a high risk
-        of losing money rapidly due to leverage. 76% of retail investor accounts
-        lose money when trading CFDs with this provider. You should consider
-        whether you understand how CFDs work, and whether you can afford to take
-        the high risk of losing your money. You will never lose more than the
-        amount invested in each position.
+        Veuillez noter que les CFD sont des instruments complexes et comportent
+        un risque élevé de perte rapide d'argent en raison de l'effet de levier.
+        76 % des comptes d'investisseurs particuliers perdent de l'argent
+        lorsqu'ils négocient des CFD avec ce fournisseur. Vous devez vous
+        demander si vous comprenez le fonctionnement des CFD et si vous pouvez
+        vous permettre de prendre le risque élevé de perdre votre argent. Vous
+        ne perdrez jamais plus que le montant investi dans chaque position.
     - >-
-        Past performance is not an indication of future results. Trading history
-        presented is less than 5 complete years and may not suffice as basis for
-        investment decision.
+        Les performances passées ne préjugent pas des résultats futurs.
+        L’historique des transactions présenté date de moins de 5 années
+        complètes et peut ne pas suffire comme base pour une décision
+        d’investissement.
     - >-
-        When adding or updating the ESMA CFD disclaimer on your website, please
-        refer to the this document and carefully read the instructions. 76% of
-        retail investor accounts lose money when trading CFDs with this
-        provider. You shouldconsider whether you can afford to take the high
-        risk of losing your money. Copy trading is a portfolio management
-        service, provided by eToro (Europe) Ltd., which is authorised and
-        regulated by the Cyprus Securities and Exchange Commission.
+        Lors de l'ajout ou de la mise à jour de la clause de non-responsabilité
+        ESMA CFD sur votre site Web, veuillez vous référer à ce document et lire
+        attentivement les instructions. 76 % des comptes d'investisseurs
+        particuliers perdent de l'argent lorsqu'ils négocient des CFD avec ce
+        fournisseur. Vous devez vous demander si vous pouvez vous permettre de
+        prendre le risque élevé de perdre votre argent. Le copy trading est un
+        service de gestion de portefeuille fourni par eToro (Europe) Ltd., qui
+        est autorisé et réglementé par la Securities and Exchange Commission de
+        Chypre.
     - >-
-        Crypto investing is offered by eToro (Europe) Ltd as a DASP, registered
-        with the AMF. Cryptoasset investing is highly volatile. No consumer
-        protection.
+        L'investissement crypto est proposé par eToro (Europe) Ltd en tant que
+        DASP, enregistré auprès de l'AMF. L’investissement dans les
+        crypto-actifs est très volatil. Aucune protection des consommateurs.
     - >-
-        eToro USA LLC does not offer CFDs and makes no representation and
-        assumes no liability as to the accuracy or completeness of the content
-        of this publication, which has been prepared by our partner utilizing
-        publicly available non-entity specific information about eToro.
+        eToro USA LLC n'offre pas de CFD et ne fait aucune déclaration et
+        n'assume aucune responsabilité quant à l'exactitude ou à l'exhaustivité
+        du contenu de cette publication, qui a été préparée par notre partenaire
+        en utilisant des informations publiques non spécifiques à une entité sur
+        eToro.
 ---
 ## Présentation
 
