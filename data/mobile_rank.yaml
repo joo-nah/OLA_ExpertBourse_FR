@@ -10,8 +10,12 @@ cards:
         - Suivre et copier les meilleurs Traders
     percentage: Dépôt Minimum
     currency: 100€
-    note: Toutes les actions, 0 % commission
-    capital_note: eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees.
+    note: "Jusqu'à 5,3\_% d'intérêt sur le solde non utilisé"
+    capital_note: >-
+      eToro est une plateforme d'investissement multi-actifs. La valeur de vos
+      investissements peut augmenter ou diminuer. Votre capital est assujetti à
+      un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez
+      etoro com/trading/fees.
     sidebar_capital: Your capital is at risk
     button:
       link: >-
