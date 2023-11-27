@@ -38,8 +38,6 @@ EasyBourse permet d’ouvrir différentes types de placements :
 
 Bien qu’en ligne, EasyBourse n’a rien à envier aux offres traditionnelles puisqu’elle permet les mêmes placements avec en prime une facilité certaine.
 
-{{< blog-card >}}
-
 ## \#4 Les frais de courtage avec EasyBourse
 
 Dans l’ensemble, EasyBourse se situe sur une fourchette moyenne du marché et propose une tarification adaptée à ses clients pour insister sur la qualité du service et de l’offre.
