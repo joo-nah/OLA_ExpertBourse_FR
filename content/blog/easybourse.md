@@ -11,7 +11,7 @@ card:
         - Webinaires pour les débutants
         - Groupe de la Banque Postale
     percentage: Dépôt Minimum
-    currency: 50€ pour EasyStart
+    currency: 50€ pour EasyStart*
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
     button_link: >-
         https://www.top-rk.com/aff_c?offer_id=792&aff_id=1054&aff_sub2=article&aff_sub=
@@ -38,6 +38,9 @@ EasyBourse permet d’ouvrir différentes types de placements :
 
 Bien qu’en ligne, EasyBourse n’a rien à envier aux offres traditionnelles puisqu’elle permet les mêmes placements avec en prime une facilité certaine.
 
+{{< blog-card >}}
+
+*50€ pour EasyStart et 200€ pour le reste des formules Bourse
 ## \#4 Les frais de courtage avec EasyBourse
 
 Dans l’ensemble, EasyBourse se situe sur une fourchette moyenne du marché et propose une tarification adaptée à ses clients pour insister sur la qualité du service et de l’offre.
