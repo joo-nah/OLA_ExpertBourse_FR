@@ -11,7 +11,7 @@ card:
         - Webinaires pour les débutants
         - Groupe de la Banque Postale
     percentage: Dépôt Minimum
-    currency: 200 €
+    currency: 50€ pour EasyStart
     mobile_list: Jusqu'à /200 €/ en Actions Offerts
     button_link: >-
         https://www.top-rk.com/aff_c?offer_id=792&aff_id=1054&aff_sub2=article&aff_sub=
