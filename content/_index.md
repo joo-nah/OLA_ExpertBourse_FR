@@ -51,6 +51,10 @@ eToro est un des leaders sur le marché en raison de nombreux avantages :
 
 eToro est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
 
+{{ if .capital_note }}
+  <p class="capital mobile d-sm-block d-md-none">{{ .capital_note }}</p>
+{{end}}
+
 ## \#3 EasyBourse, où la sécurité et la confiance sont les maîtres mots.
 
 Filiale de La Banque Postale depuis 2008, EasyBourse &nbsp;est un courtier en ligne 100% digital.
