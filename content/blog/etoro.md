@@ -33,15 +33,7 @@ disclaimer:
         complètes et peut ne pas suffire comme base pour une décision
         d’investissement.
     - >-
-        Lors de l'ajout ou de la mise à jour de la clause de non-responsabilité
-        ESMA CFD sur votre site Web, veuillez vous référer à ce document et lire
-        attentivement les instructions. 76 % des comptes d'investisseurs
-        particuliers perdent de l'argent lorsqu'ils négocient des CFD avec ce
-        fournisseur. Vous devez vous demander si vous pouvez vous permettre de
-        prendre le risque élevé de perdre votre argent. Le copy trading est un
-        service de gestion de portefeuille fourni par eToro (Europe) Ltd., qui
-        est autorisé et réglementé par la Securities and Exchange Commission de
-        Chypre.
+        Le trading ne constitue pas un conseil en investissement. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque.
     - >-
         L'investissement crypto est proposé par eToro (Europe) Ltd en tant que
         DASP, enregistré auprès de l'AMF. L’investissement dans les
