@@ -35,7 +35,6 @@ Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en
 
 À ce titre, il met à disposition des investisseurs particuliers une plateforme leur permettant de se positionner sur les marchés et produits financiers souhaités par Internet, via une application mobile ou par téléphone auprès d’un conseiller. C’est aussi lui qui conserve vos actions et vos titres sur les enveloppes que vous aurez ouvertes chez lui.
 
-{{< home_card >}}
 
 ## \#2 eToro : la plateforme la plus pédagogue pour commencer
 
@@ -51,9 +50,7 @@ eToro est un des leaders sur le marché en raison de nombreux avantages :
 
 eToro est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
 
-{{ if .capital_note }}
-  <p class="capital mobile d-sm-block d-md-none">{{ .capital_note }}</p>
-{{end}}
+{{< home_card >}}
 
 ## \#3 EasyBourse, où la sécurité et la confiance sont les maîtres mots.
 
