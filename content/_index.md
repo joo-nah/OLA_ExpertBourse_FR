@@ -43,7 +43,7 @@ eToro est un des leaders sur le marché en raison de nombreux avantages :
 
 * &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
 * &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…<br><br>eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…<br>Pour information :<br>eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees
 * &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
 * &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme simple et didactique à utiliser
 
