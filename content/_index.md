@@ -35,20 +35,17 @@ Avant tout, il est nécessaire de comprendre de quoi il s’agit. Le courtier en
 
 À ce titre, il met à disposition des investisseurs particuliers une plateforme leur permettant de se positionner sur les marchés et produits financiers souhaités par Internet, via une application mobile ou par téléphone auprès d’un conseiller. C’est aussi lui qui conserve vos actions et vos titres sur les enveloppes que vous aurez ouvertes chez lui.
 
-
 ## \#2 eToro : la plateforme la plus pédagogue pour commencer
 
 eToro est certainement l’une des plateformes de trading les plus mises en avant. eToro est tout d’abord connue pour être une plateforme de “social trading”, l’idée étant de s’entraider entre inscrits, de partager les connaissances pour mieux trader.
 
 eToro est un des leaders sur le marché en raison de nombreux avantages :
 
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; une plateforme simple et didactique à utiliser
-
-eToro est la plateforme idéale pour les novices en la matière qui souhaitent investir avec de l’aide et de l’accompagnement tout en développant son portefeuille.
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…<br><br>eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme simple et didactique à utiliser
 
 {{< home_card >}}
 
@@ -66,10 +63,10 @@ En cas de besoin, le service client est joignable par téléphone (5j/7, de 9h �
 
 Enfin, concernant les frais, il faut noter que l’offre EasyBourse&nbsp; c’est aussi :
 
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de droits de garde
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de frais pour la participation aux assemblées générales
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 € de frais de transfert
-* &nbsp; &nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp; 0 % de droits d'entrée sur les fonds négociés
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 € de droits de garde
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 € de frais pour la participation aux assemblées générales
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 € de frais de transfert
+* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 % de droits d'entrée sur les fonds négociés
 
 En bref, EasyBourse vous permettra de trader facilement, que vous soyez débutant ou confirmé. C’est l’acteur en qui vous pouvez avoir confiance !
 
