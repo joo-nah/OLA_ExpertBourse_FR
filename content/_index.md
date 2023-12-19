@@ -41,13 +41,25 @@ eToro est certainement l’une des plateformes de trading les plus mises en avan
 
 eToro est un des leaders sur le marché en raison de nombreux avantages :
 
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme flexible : investir avec effet de levier, vendre à découvert…<br>Pour information :<br>eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; 0 commission sur les actions en position longue sans effet de levier
-* &nbsp; &nbsp; &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp; &nbsp; &nbsp; une plateforme simple et didactique à utiliser
+* le site propose de nombreuses places boursières (Nasdaq, NYSE…) et type d’instruments financiers (crypto-monnaies, actions, etc)
+* &nbsp; le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
+* &nbsp; Une plateforme flexible : investir avec effet de levier, vendre à découvert…<br>Pour information :<br>eToro est une plateforme d'investissement multi-actifs. La valeur de vos investissements peut augmenter ou diminuer. Votre capital est assujetti à un risque. D'autres frais s'appliquent. Pour plus d'informations, visitez etoro com/trading/fees
+* 0 commission sur les actions en position longue sans effet de levier
+* &nbsp;Une plateforme simple et didactique à utiliser
 
 {{< home_card >}}
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:question_mark" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Unknown Shortcode</p><p class="c-card__subtext">home_card</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+
+
+<div class="c-card c-card--clickable"><div class="c-card__preview"><p class="u-hide-when-loaded">No preview available</p></div><div class="c-card__content"><div class="c-card__heading"><div class="c-card__icon "><cc-icon name="mdi:question_mark" class="u-hide-when-loaded"></cc-icon></div><div class="c-card__heading-content"><p class="c-card__text ">Unknown Shortcode</p><p class="c-card__subtext">home_card</p></div></div></div></div>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" width="15" title="Cliquer et glisser pour déplacer" height="15" role="presentation" draggable="true" />
+
+
 
 ## \#3 EasyBourse, où la sécurité et la confiance sont les maîtres mots.
 
