@@ -45,7 +45,7 @@ eToro est un des leaders sur le marché en raison de nombreux avantages :
 
 2) le suivi des portefeuilles en temps réel pour étudier au mieux les évolutions
 
-3) Une plateforme flexible : investir avec effet de levier, vendre à découvert<br><br>Pour information :
+3) Une plateforme flexible : investir avec effet de levier, vendre à découvert<br><br>
 
 
 
